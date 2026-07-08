@@ -1,4 +1,5 @@
-# Tutorial
+# Demo
 
-This is a tutorial where I will learn how to Create Git 
-repositories from my projects and share them on Github.
+This is a demo project where I will learn how to commit and push changes, create and merge branches.
+
+Refer to `git-features.md` to check the list of Git operations.
