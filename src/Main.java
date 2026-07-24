@@ -6,7 +6,7 @@ void main() {
     // For this, I wish to count to 10 and display the incremental counter 'i's' value
     for (int i = 1; i <= 10; i++) {
 
-        IO.println("i = " + i);
+        IO.println("i = " + (i + i));
     }
 
     IO.println(String.format("This has been a test of IntelliJ and Git to get it to work together."));
