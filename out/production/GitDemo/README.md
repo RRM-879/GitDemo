@@ -1,5 +1,6 @@
-# Demo
+# Tutorial
 
-This is a demo project where I will learn how to commit and push changes, create and merge branches.
+This is a test project where I will learn how to work with the most popular Git operations
+
 
 Refer to `git-features.md` to check the list of Git operations.
