@@ -10,13 +10,13 @@ void main() {
 
     // For this, I wish to count to 10 and display the incremental counter 'i's' value
     for (int i = 1; i <= 10; i++) {
-        IO.println("i = " + (i + i));
+        IO.println("i = " + (i + i) + " ; i^2 = " + (i * i));
     }
 
     // For this part I wish to add a squared counter from 1 to 10 for j
-    for (int j = 1; j <= 10; j++) {
-        IO.println("j = " + j * j);
-    }
+    //for (int j = 1; j <= 10; j++) {
+    //    IO.println("j = " + j * j);
+    //}
 
     // Same as the intro string but to learn if I could just initialize it and make it work in the println
     IO.println("%s".formatted(outro));
